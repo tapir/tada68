@@ -4,6 +4,7 @@ Base Layout
 -----------
 * Changed Win to Fn
 * Changed Grave to Pscr
+* Changes ESC to Grave
 
 Function Layout
 ---------------
@@ -11,6 +12,6 @@ Function Layout
 * Arrow keys are PgUp, PgDn, Home, End
 * W is Win
 * Delete is Mute
-* PgUp is Volume Up
-* PgDn is Volume Down
+* PgUp, PgDn are Volume Up/Down
 * <,> and ? are Backlight controls
+* ESC is ESC
